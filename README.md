@@ -1,1 +1,5 @@
 # ee250
+
+Alexander Kim 
+3276084507 
+EE250 Sp2019
